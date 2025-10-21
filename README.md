@@ -11,19 +11,25 @@ AI-Powered Generation: Uses the Google Gemini AI to analyze an epic's title and 
 User Story Generation: Automatically creates user stories with:
 
 -Title
+
 -Description
+
 -Acceptance Criteria (in Given/When/Then format)
 
 Test Case Generation: Automatically creates test cases for each story with:
 
 -Test Case ID
+
 -Preconditions
+
 -Test Steps
+
 -Expected Results
 
 Multiple Export Formats: Displays the generated content in a clean web interface and allows for exporting as:
 
 -CSV File
+
 -Confluence Wiki Markup
 
 (Bonus) Effort Estimation: The AI also provides an estimated story point value (on the Fibonacci scale) for each generated user story.
